@@ -30,6 +30,7 @@ const skills = [
       { name: 'Docker', level: 70 },
       { name: 'Postman', level: 88 },
       { name: 'BootStrap', level: 65 },
+      { name: 'Passport.js', level: 60 },
     ],
   },
 ];
