@@ -1,8 +1,28 @@
+# === Node modules ===
 node_modules/
-dist/
+
+# === Build output ===
 .next/
 out/
+dist/
+
+# === Environment variables ===
 .env
-*.log
+.env.local
+.env.*.local
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === OS-specific files ===
 .DS_Store
+Thumbs.db
+
+# === Editor folders ===
 .vscode/
+.idea/
+
+# === Optional: Ignore TypeScript build cache ===
+*.tsbuildinfo
