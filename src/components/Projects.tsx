@@ -59,7 +59,7 @@ const projects = [
     git:'https://github.com/RahuljiV2004/accident-alert'
   },
 ];
-  const handleRedirect = (s) => {
+  const handleRedirect = (s:string) => {
     window.open(s, '_blank')
   }
 
