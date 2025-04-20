@@ -17,10 +17,15 @@ const skills = [
   {
     category: 'Backend',
     items: [
-      { name: 'Node.js', level: 85 },
-      { name: 'Express.js', level: 82 },
-      { name: 'MongoDB', level: 80 },
-      { name: 'MySQL', level: 75 },
+
+  { name: 'Node.js', level: 85 },
+  { name: 'Express.js', level: 82 },
+  { name: 'MongoDB', level: 80 },
+  { name: 'MySQL', level: 75 },
+  { name: 'FastAPI', level: 60 },
+  { name: 'Flask', level: 55 }
+
+
     ],
   },
   {
