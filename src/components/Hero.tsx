@@ -94,6 +94,14 @@ const Hero = () => {
             >
               View My Work
             </Link>
+             <a
+                href="https://drive.google.com/file/d/19gz1BmnZnBoBkaRFEwGBnMwbWEWwl69o/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-gray-600 text-white px-8 py-3 rounded-full font-medium hover:bg-gray-700 dark:bg-gray-500 dark:hover:bg-gray-600 transition-colors cursor-pointer"
+              >
+                Resume
+              </a>
           </motion.div>
         </div>
       </div>
