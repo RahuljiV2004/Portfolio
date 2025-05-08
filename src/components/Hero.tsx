@@ -23,7 +23,7 @@ const Hero = () => {
             className="flex justify-center mb-6"
           >
             <img
-              src="https://media.licdn.com/dms/image/v2/D5635AQGO-6D-43G3hQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719437536450?e=1745740800&v=beta&t=Xem-H6yJP60zq6XRwS27tRyLGurVWF7I2ztY49OGYMM"
+              src="https://media.licdn.com/dms/image/v2/D5635AQGO-6D-43G3hQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719437536450?e=1747310400&v=beta&t=J56jJlqqLnFWc9o0B2xkDlrwTpEFhebwN0Oa_jFliJs"
               alt="Rahulji V"
               className="w-32 h-32 rounded-full border-4 border-indigo-500 shadow-lg object-cover"
             />
